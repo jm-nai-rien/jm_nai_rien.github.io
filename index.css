@@ -1,39 +1,29 @@
 *{
-    font-family: Helvetica;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.header{
-    background-image: url(./images/pattern.webp);
+
+
+.banner{
+    background-color: #af8fff7d;
+    color: rgb(0, 30, 94);
     text-align: center;
+    padding: 100px 0;
 }
 
-h1{
-    font-size: 100px;
-    font-weight: bold;
-    color: khaki;
+#DaPic {
+    width: 50%;
 }
 
-h2{
-    font-size: 32pt;
-    font-weight: bold;
-    display: block;
+.more{
+    text-align: center;
+    background-color: blanchedalmond;
+    color: black;
+    padding: 50px 0;
 }
 
-#brushes{
-    background-color: mediumspringgreen;
+button{
+    margin: 4px 8px;
+    background-color: blue;
+    color: white;
 }
-
-#frames{
-    background-color: lightcoral;
-}
-
-#paint{
-    background-color: skyblue;
-}
-
-
-strong{
-    font-weight: bold;
-    color: blue;
-}
-
